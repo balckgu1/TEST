@@ -3,3 +3,4 @@
 * add something
 add two
 create fix_B
+userB: add a newline
